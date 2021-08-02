@@ -1,4 +1,4 @@
-# Hi There, I'm Emanuele Guidotti and I'm a Senior Fron End Engineer
+# Hi There, I'm Emanuele a Fron End Engineer from Italy
 
 ## An overview about me 
 Talented, sophisticated, innovative, and result-driven web developer with over 16 years’ hands-on experience building web and mobile software via front end technologies, such as AngularJS, Angular, React, React Native, Ionic, and in
