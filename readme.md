@@ -7,7 +7,7 @@ MEAN / MERN full-stack environments and Vanilla JS. Possess in-depth knowledge o
 ## What I'm doing here
 I've created this profile to share my skills and code's solutions about different problems.
 
-##My Tech Stack
+### My Tech Stack
 * Javascript
 * Typescript 
 * jQuery
