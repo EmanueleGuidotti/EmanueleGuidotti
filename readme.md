@@ -21,3 +21,6 @@ I've created this profile to share my skills and code's solutions about differen
 * Firebase
 * Git
 * GitLab
+
+### My CV online
+If you want to see my CV please go to my [LinkedIn Profile!](https://www.linkedin.com/in/emanueleguidotti/)
