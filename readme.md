@@ -4,7 +4,7 @@
 Hi there, I'm just a crazy person who like code, music and sea. I develop interfaces since 2003 and I worked for many different clients involved in different industries like banking, betting, insurance, telecommunications, education, food, energy, petroleum and more. 
 
 ### What I'm doing here?
-I've created this profile to share my skills and code solutions about different problems.
+I've created this profile for sharing my skills and solutions about different problems.
 
 ### My Tech Stack
 * Javascript
