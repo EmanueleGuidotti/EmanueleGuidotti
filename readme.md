@@ -21,3 +21,6 @@ I've created this profile for sharing my skills and solutions about different pr
 * Firebase
 * Git
 * GitLab
+* Docker
+* NextJS
+* GraphQL
